@@ -1,0 +1,2 @@
+uart_test.c:59:6:send_operation	8	static
+uart_test.c:19:6:UART6_Test	16	static

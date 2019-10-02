@@ -1,0 +1,8 @@
+main.c:39:1:__io_putchar	24	static
+main.c:82:6:I2C2_ClearBusyFlagErratum	80	static
+main.c:497:6:SystemClock_Config	96	static
+main.c:324:5:main	184	static
+main.c:537:6:HAL_GPIO_EXTI_Callback	8	static
+main.c:568:14:I2C_Write	24	static
+main.c:589:14:I2C_ReadMulti	40	static
+main.c:624:6:Error_Handler	0	static
